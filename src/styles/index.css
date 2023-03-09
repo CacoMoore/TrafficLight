@@ -10,3 +10,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.light {
+border-radius: 50%;
+width: 100px;
+height: 100px;
+margin: 0 auto;
+margin-bottom: 20px;
+margin-top: 20px;
+
+}
+
+.TrafficLight {
+padding: 10px;
+width: 150px;
+margin: 0 auto;
+    
+}
+
+
